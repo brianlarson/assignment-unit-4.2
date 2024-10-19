@@ -9,6 +9,9 @@ header {
 header a {
     color: aqua;
 }
+.info {
+    text-align: center;
+}
 .info h2 {
     background-color: chocolate;
     padding: 1rem 2rem;
@@ -20,4 +23,9 @@ header a {
     padding: 1rem 2rem;
     background-color:darkslategray;
     text-align: center;
+}
+.info img {
+    max-inline-size: 100%;
+    block-size: auto;
+    display: inline-block;
 }
